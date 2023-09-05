@@ -1,0 +1,11 @@
+Projeto realizado em linguagem C através da IDE codeblocks, no primeiro período do curso de ciência da computaçao na PUC-SP, campus consolação.
+Esse projeto tem a premissa de implementar um sistema de hotel, com as funcionalidades:
+fazer check-in,
+fazer check-out,
+reservar um apartamento, 
+cancelar uma reserva, 
+mostar o mapa de ocupação e reservas do hotel, 
+mostar informações dos hóspedes, 
+mostrar taxa de ocupação e reservas do hotel,
+possibilidade de sair do programa.
+      
