@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=IArmazenador
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ Armazenador\ here.\r\n\ \r\n\ Caio\ Caio\ Pereira\ Guimar\u00E3es\ \r\n\ Gustavo\ Leite\ Ioels\ \r\n\ Pedro\ Fran\u00E7a\ de\ Godoi\ \r\n\ \r\n
+comment1.params=a
+comment1.target=void\ adicionar(java.lang.Object)
+comment2.params=i
+comment2.target=java.lang.Object\ remover(int)
+comment3.params=
+comment3.target=boolean\ estaVazia()
+comment4.params=i
+comment4.target=java.lang.Object\ buscar(int)
+comment5.params=
+comment5.target=int\ getQtd()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

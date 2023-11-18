@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Gui
+comment1.params=botoes\ corTexto\ corFundo
+comment1.target=void\ configurarCoresBotoes(javax.swing.JButton[],\ java.awt.Color,\ java.awt.Color)
+comment2.params=larg\ alt
+comment2.target=Gui(int,\ int)
+comment2.text=\r\n\ Constroi\ a\ GUI\r\n\r\n\ @param\ larg\ largura\ da\ janela\r\n\ @param\ alt\ altura\ da\ janela\r\n
+numComments=3
