@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ImageToHistogram
+comment1.params=color
+comment1.target=double\ getIntensity(java.awt.Color)
+comment2.params=picture
+comment2.target=double[][]\ convertPictureToArray(Picture)
+comment3.params=a
+comment3.target=void\ drawHistogram(double[][])
+comment4.params=
+comment4.target=void\ desenharHistograma()
+numComments=5
