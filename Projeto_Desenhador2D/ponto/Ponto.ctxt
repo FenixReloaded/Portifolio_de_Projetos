@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Ponto
+comment0.text=\r\n\ Representacao\ de\ ponto\ matematico\r\n\ \r\n\ Caio\ Caio\ Pereira\ Guimar\u00E3es\ \r\n\ Gustavo\ Leite\ Ioels\ \r\n\ Pedro\ Fran\u00E7a\ de\ Godoi\ \r\n\ \r\n
+comment1.params=
+comment1.target=Ponto()
+comment2.params=p
+comment2.target=Ponto(Ponto)
+comment3.params=x\ y
+comment3.target=Ponto(double,\ double)
+comment4.params=
+comment4.target=double\ getX()
+comment5.params=x
+comment5.target=void\ setX(double)
+comment6.params=
+comment6.target=double\ getY()
+comment7.params=y
+comment7.target=void\ setY(double)
+comment8.params=p
+comment8.target=double\ calcularDistancia(Ponto)
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
