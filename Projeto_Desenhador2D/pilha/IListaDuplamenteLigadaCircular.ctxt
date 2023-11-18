@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=IListaDuplamenteLigadaCircular
+comment0.text=\r\n\ Interface\ da\ TAD\ Lista\ Duplamente\ Ligada\ Circular\r\n\ \r\n\ @author\ Julio\ Arakaki\r\n\ @version\ 25/05/2020\r\n
+comment1.params=
+comment1.target=boolean\ estaVazia()
+comment1.text=\r\n\ Method\ estaVazia\r\n\r\n\ @return\ boolean\ -\ true\ (esta\ vazia),\ false\ nao\ vazia\r\n
+comment2.params=novo
+comment2.target=void\ inserirInicio(java.lang.Object)
+comment2.text=\r\n\ Method\ inserirInicio\r\n\r\n\ @param\ Object\ -\ conteudo\ do\ No\ a\ ser\ inserido\r\n
+comment3.params=novo
+comment3.target=void\ inserirFim(java.lang.Object)
+comment3.text=\r\n\ Method\ inserirFim\r\n\r\n\ @param\ Object\ -\ conteudo\ do\ No\ a\ ser\ inserido\r\n
+comment4.params=chave\ novo
+comment4.target=boolean\ inserirApos(int,\ java.lang.Object)
+comment4.text=\r\n\ Method\ inserirApos\r\n\r\n\ @param\ key\ int\ -\ chave.\ O\ novo\ no\ sera\ inserido\ apos\r\n\ @param\ elem\ Object\ -\ conteudo\ do\ no\ a\ ser\ inserido\r\n\ @return\ boolean\ -\ se\ a\ chave\ for\ encontrada,\ insere\ o\ no\ (true),\ caso\ contrario\ (false)\ \r\n
+comment5.params=
+comment5.target=java.lang.Object\ removerInicio()
+comment5.text=\r\n\ Method\ removerInicio\r\n\r\n\ @return\ No\ -\ no\ a\ ser\ removido\r\n
+comment6.params=
+comment6.target=java.lang.Object\ removerFim()
+comment6.text=\r\n\ Method\ removerFim\r\n\r\n\ @return\ No\ -\ no\ a\ ser\ removido\r\n
+comment7.params=chave
+comment7.target=java.lang.Object\ removerPelaChave(int)
+comment7.text=\r\n\ Method\ removerPelaChave\r\n\r\n\ @param\ chave\ int\ -\ chave\ de\ busca\r\n\ @return\ No\ -\ no\ a\ ser\ removido\r\n
+numComments=8
